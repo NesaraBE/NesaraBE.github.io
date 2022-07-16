@@ -1,7 +1,5 @@
 <!-- ## Classifying Toxic Memes with Artificial Intelligence -->
 
-<center>
-    
 ## Introduction
 
 In recent years, memes have grown into one of the most widespread forms of content on social media. While generally intended for humor, hateful and misleading content has been on the rise (Fig. 1).  Hence, an effective method of classifying memes into toxic or non-toxic is a major issue to be tackled to ensure a healthy atmosphere online. 
@@ -222,5 +220,3 @@ We will build a supervised machine learning model which will be trained on the f
 3. Kiela, D., et al. "The hateful memes challenge: Detecting hate speech in multimodal memes." Advances in Neural Information Processing Systems 33 (2020): 2611-2624.
 4. Sharma, S., et al. "Detecting and Understanding Harmful Memes: A Survey." arXiv preprint arXiv:2205.04274 (2022).
 5. Mogadala, A. et al. "Trends in integration of vision and language research: A survey of tasks, datasets, and methods." Journal of Artificial Intelligence Research 71 (2021): 1183-1317.
-
-</center>
