@@ -34,8 +34,6 @@ Next, we performed PCA separately on the image and the text features. After redu
 
 Feature reduction and clustering was explored with PCA, KMeans, DBSCAN, and GMM.  The purpose of this was to reduce features and visualize the high dimensional dataset. For GMM, we performed clustering with both, a full covariance matrix and a spherical covariance matrix. 
 
---- IMAGE ---
-
 ![Meme Image](/Screen Shot 2022-07-16 at 6.44.31 PM.png?raw=true "When memes go extreme. Example taken from [4]")
 
 
@@ -100,27 +98,35 @@ We take features obtained from early and later stage layers from ResNET-50 and e
 
 </br>
 
-# Header 1
-## Header 2
-### Header 3
+Next, we fuse features from various layers. The fusion techniques employed also improve the results obtained individually just from image or text data. We report homogeneity scores for each of the cases.  The results can be seen in Table 2.
 
-- Bulleted
-- List
+<br/>
 
-1. Numbered
-2. List
+<table>
 
-**Bold** and _Italic_ and `Code` text
+<caption>Table 2.  Homogeneity results for clustering fused features from BERT and ResNet50.</caption>
 
-[Link](url) and ![Image](src)
-```
+<tr>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<th> </th>
+<th>Text only</th>
+<th>Image only</th>
+<th>Fusion</th>
 
-### Jekyll Themes
+</tr>
+ 
+<tr>
+ <td> FC, Layer 11</td>
+ <td> 0.0169 </td>
+ <td> 0.016 </td>
+ <td> **0.022** </td>
+</tr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NesaraBE/NesaraBE.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</table>
 
-### Support or Contact
+</br>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</br>
+
+
+
