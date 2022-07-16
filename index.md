@@ -34,8 +34,11 @@ Next, we performed PCA separately on the image and the text features. After redu
 
 Feature reduction and clustering was explored with PCA, KMeans, DBSCAN, and GMM.  The purpose of this was to reduce features and visualize the high dimensional dataset. For GMM, we performed clustering with both, a full covariance matrix and a spherical covariance matrix. 
 
-![Meme Image](/Screen Shot 2022-07-16 at 6.44.31 PM.png?raw=true "When memes go extreme. Example taken from [4]")
 
+<p align="center">
+    <img src="/Screen Shot 2022-07-16 at 6.44.31 PM.png" alt>
+    <em>When memes go extreme. Example taken from [4]</em>
+</p>
 
 
 
@@ -203,9 +206,9 @@ We will build a supervised machine learning model which will be trained on the f
 
 ## References
 
-[1] Pramanick, S., et al. "MOMENTA: A Multimodal Framework for Detecting Harmful Memes and Their Targets." arXiv preprint arXiv:2109.05184 (2021).
-[2] Dimitrov, D., et al. "Detecting propaganda techniques in memes." arXiv preprint arXiv:2109.08013 (2021).
-[3] Kiela, D., et al. "The hateful memes challenge: Detecting hate speech in multimodal memes." Advances in Neural Information Processing Systems 33 (2020): 2611-2624.
-[4] Sharma, S., et al. "Detecting and Understanding Harmful Memes: A Survey." arXiv preprint arXiv:2205.04274 (2022).
-[5] Mogadala, A. et al. "Trends in integration of vision and language research: A survey of tasks, datasets, and methods." Journal of Artificial Intelligence Research 71 (2021): 1183-1317.
+1. Pramanick, S., et al. "MOMENTA: A Multimodal Framework for Detecting Harmful Memes and Their Targets." arXiv preprint arXiv:2109.05184 (2021).
+2. Dimitrov, D., et al. "Detecting propaganda techniques in memes." arXiv preprint arXiv:2109.08013 (2021).
+3. Kiela, D., et al. "The hateful memes challenge: Detecting hate speech in multimodal memes." Advances in Neural Information Processing Systems 33 (2020): 2611-2624.
+4. Sharma, S., et al. "Detecting and Understanding Harmful Memes: A Survey." arXiv preprint arXiv:2205.04274 (2022).
+5. Mogadala, A. et al. "Trends in integration of vision and language research: A survey of tasks, datasets, and methods." Journal of Artificial Intelligence Research 71 (2021): 1183-1317.
 
