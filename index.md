@@ -45,7 +45,6 @@ We take features obtained from early and later stage layers from ResNET-50 and e
 
 
 
-<br/>
 
 <table>
 
@@ -78,7 +77,7 @@ We take features obtained from early and later stage layers from ResNET-50 and e
  
 <tr>
 
-<td>Layer 7</td>
+<td>Layer 11</td>
 
 <td>**0.0169**</td>
 
@@ -94,13 +93,9 @@ We take features obtained from early and later stage layers from ResNET-50 and e
 
 </table>
 
-</br>
 
-</br>
 
 Next, we fuse features from various layers. The fusion techniques employed also improve the results obtained individually just from image or text data. We report homogeneity scores for each of the cases.  The results can be seen in Table 2.
-
-<br/>
 
 <table>
 
@@ -124,9 +119,42 @@ Next, we fuse features from various layers. The fusion techniques employed also 
 
 </table>
 
-</br>
+Further, we try various fusion techniques as described in the section above. As expected, concatenating results from the FC layer of ResNET and the 11th layer of BERT gives the best results. Late-Late fusion technique gives the best results because of the fact that later stage features are much more abstract. Conventional algorithms like GMM tend to perform poorly on complex and less abstract features. Using neural networks for Early stage fusion techniques will be part of future work. The results are compiled in Table 3.
 
-</br>
+<table>
+
+<caption>Table 3.  Homogeneity results for clustering early and late stage features from fused feature layers.</caption>
+
+<tr>
+
+<th> </th>
+<th>Early (Layer 1)</th>
+<th>Middle (Layer 7)</th>
+<th>Late (Layer 11)</th>
+
+</tr>
+ 
+<tr>
+ <td> Early (Layer 2) </td>
+ <td> 2.38e-5 </td>
+ <td> 2.1e-5 </td>
+ <td> 2.91e-6 </td>
+</tr>
+ 
+<tr>
+ <td> Late (Layer 10 FC)</td>
+ <td> 0.0070 </td>
+ <td> 0.0103 </td>
+ <td> 0.022 </td>
+</tr>
+
+</table>
+
+For visualization, we tried different covariance types in the GMM algorithm. We observed that GMM with spherical covariance matrix worked better than the full covariance matrix in all of our runs. From this, we can conclude that the features are much less correlated and hence, by adding extra covariance terms, the model might not converge to the optimum solution. Instead, the spherical covariance matrix gives better and faster results. 
+
+Finally, we tried concatenating features obtained from various layers of BERT. For example, we concatenated features obtained from layer 11,12,13 from BERT. However, we report a decrease in the homogeneity score, as shown in Table 4. Exploring concatenation from various layers of the network will be part of future work.
+
+
 
 
 
