@@ -34,8 +34,14 @@ Next, we performed PCA separately on the image and the text features. After redu
 
 Feature reduction and clustering was explored with PCA, KMeans, DBSCAN, and GMM.  The purpose of this was to reduce features and visualize the high dimensional dataset. For GMM, we performed clustering with both, a full covariance matrix and a spherical covariance matrix. 
 
+<p align="center">
+    <img align="center" src="/Screen Shot 2022-07-16 at 6.44.31 PM.png" />
+</p>
+<p align="center">
+    <em>When memes go extreme. Example taken from [4]</em>
+</p>
+
  
- <img align="center" width="600" height="200" src="/Screen Shot 2022-07-16 at 6.44.31 PM.png" caption="When memes go extreme. Example taken from [4]">
 
 
 
