@@ -155,6 +155,57 @@ For visualization, we tried different covariance types in the GMM algorithm. We 
 Finally, we tried concatenating features obtained from various layers of BERT. For example, we concatenated features obtained from layer 11,12,13 from BERT. However, we report a decrease in the homogeneity score, as shown in Table 4. Exploring concatenation from various layers of the network will be part of future work.
 
 
+<table>
 
+<caption>Table 1: Homogeneity results for clustering early and late stage features from BERT applied to captions. </caption>
 
+<tr>
+
+<th> Layers </th>
+
+<th>Homogeneity score</th>
+
+</tr>
+
+<tr>
+
+<td>11</td>
+
+<td>0.0169</td>
+
+</tr>
+
+<tr>
+
+<td> 11, 12, 13 </td>
+
+<td>0.0157</td>
+
+</tr>
+ 
+<tr>
+
+<td>11, 12</td>
+
+<td>0.0167</td>
+
+</tr>
+
+</table>
+
+## Conclusions
+
+In this work, we report improvement in accuracy when features from image and text are fused. We explore various fusion techniques and conclude that Late-Late fusion techniques give the best results. Next to visualize the data, we tried various types of covariance matrix and concluded that features are much less correlated and hence giving better results for spherical objects. Finally, we try concatenating features from various layers and report a drop in accuracy.
+
+## Future work
+
+We will build a supervised machine learning model which will be trained on the fusion feature combos yielding the best homogeneity score. There will also be a “not so good” fusion feature combination trained supervised machine learning model. Finally, we will have golden standard results, which would be obtained from VisualBERT trained on an uncleaned dataset. A comparison of ML metrics among the three will be presented. We will further try to have multiple classes of toxicity and train the model to predict the type of toxicity. 
+
+## References
+
+[1] Pramanick, S., et al. "MOMENTA: A Multimodal Framework for Detecting Harmful Memes and Their Targets." arXiv preprint arXiv:2109.05184 (2021).
+[2] Dimitrov, D., et al. "Detecting propaganda techniques in memes." arXiv preprint arXiv:2109.08013 (2021).
+[3] Kiela, D., et al. "The hateful memes challenge: Detecting hate speech in multimodal memes." Advances in Neural Information Processing Systems 33 (2020): 2611-2624.
+[4] Sharma, S., et al. "Detecting and Understanding Harmful Memes: A Survey." arXiv preprint arXiv:2205.04274 (2022).
+[5] Mogadala, A. et al. "Trends in integration of vision and language research: A survey of tasks, datasets, and methods." Journal of Artificial Intelligence Research 71 (2021): 1183-1317.
 
