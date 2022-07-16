@@ -154,7 +154,7 @@ Finally, we tried concatenating features obtained from various layers of BERT. F
 
 <table>
 
-<caption>Table 1: Homogeneity results for clustering early and late stage features from BERT applied to captions. </caption>
+<caption>Table 4.  Homogeneity results for clustering concatenated features from BERT layers applied to captions.</caption>
 
 <tr>
 
