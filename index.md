@@ -1,6 +1,3 @@
-## Welcome to GitHub Pages
-
-
 ## Introduction
 
 In recent years, memes have grown into one of the most widespread forms of content on social media. While generally intended for humor, hateful and misleading content has been on the rise (Fig. 1).  Hence, an effective method of classifying memes into toxic or non-toxic is a major issue to be tackled to ensure a healthy atmosphere online. 
@@ -79,7 +76,7 @@ We take features obtained from early and later stage layers from ResNET-50 and e
 
 <td>Layer 11</td>
 
-<td>**0.0169**</td>
+<td><b>0.0169</b></td>
 
 </tr>
 
@@ -114,7 +111,7 @@ Next, we fuse features from various layers. The fusion techniques employed also 
  <td> FC, Layer 11</td>
  <td> 0.0169 </td>
  <td> 0.016 </td>
- <td> **0.022** </td>
+ <td> <b>0.022</b> </td>
 </tr>
 
 </table>
@@ -145,7 +142,7 @@ Further, we try various fusion techniques as described in the section above. As 
  <td> Late (Layer 10 FC)</td>
  <td> 0.0070 </td>
  <td> 0.0103 </td>
- <td> 0.022 </td>
+ <td> <b>0.022</b> </td>
 </tr>
 
 </table>
@@ -171,7 +168,7 @@ Finally, we tried concatenating features obtained from various layers of BERT. F
 
 <td>11</td>
 
-<td>0.0169</td>
+ <td><b>0.0169</b></td>
 
 </tr>
 
