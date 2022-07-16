@@ -46,6 +46,60 @@ Feature reduction and clustering was explored with PCA, KMeans, DBSCAN, and GMM.
 We take features obtained from early and later stage layers from ResNET-50 and early, middle and later stage layers from BERT. Using GMM for clustering, we conclude that the features from the 11th layer of the BERT produce the best results individually and results from the fully-connected layer(FC) of ResNET-50 give the best results without data fusion. The results are compiled in Table 1.
 
 
+
+<br/>
+
+<table>
+
+<caption>Table 1: Homogeneity results for clustering early and late stage features from BERT applied to captions. </caption>
+
+<tr>
+
+<th>BERT Layer </th>
+
+<th>Homogeneity score
+</th>
+
+</tr>
+
+<tr>
+
+<td>Layer 1</td>
+
+<td>0.0056</td>
+
+</tr>
+
+<tr>
+
+<td> Layer 7 </td>
+
+<td>0.0078</td>
+
+</tr>
+ 
+<tr>
+
+<td>Layer 7</td>
+
+<td>**0.0169**</td>
+
+</tr>
+
+<tr>
+
+<td>Layer 12</td>
+
+<td>0.0147</td>
+
+</tr>
+
+</table>
+
+</br>
+
+</br>
+
 # Header 1
 ## Header 2
 ### Header 3
