@@ -1,8 +1,5 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/NesaraBE/NesaraBE.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Introduction
 
@@ -38,6 +35,9 @@ Next, we performed PCA separately on the image and the text features. After redu
 Feature reduction and clustering was explored with PCA, KMeans, DBSCAN, and GMM.  The purpose of this was to reduce features and visualize the high dimensional dataset. For GMM, we performed clustering with both, a full covariance matrix and a spherical covariance matrix. 
 
 --- IMAGE ---
+
+![Meme Image](/Screen Shot 2022-07-16 at 6.44.31 PM.png?raw=true "When memes go extreme. Example taken from [4]")
+
 
 
 
