@@ -53,7 +53,7 @@ We take features obtained from early and later stage layers from ResNET-50 and e
 <center>
 <table class="center">
 
-    <caption><b>Table 1:</b> Homogeneity results for clustering early and late stage features from BERT applied to captions. </caption>
+    <caption><b>Table 1.</b> Homogeneity results for clustering early and late stage features from BERT applied to captions. </caption>
 
 <tr>
 
