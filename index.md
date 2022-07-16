@@ -52,7 +52,7 @@ We take features obtained from early and later stage layers from ResNET-50 and e
 
 
 
-<table>
+<table class="center">
 
 <caption>Table 1: Homogeneity results for clustering early and late stage features from BERT applied to captions. </caption>
 
@@ -103,7 +103,7 @@ We take features obtained from early and later stage layers from ResNET-50 and e
 
 Next, we fuse features from various layers. The fusion techniques employed also improve the results obtained individually just from image or text data. We report homogeneity scores for each of the cases.  The results can be seen in Table 2.
 
-<table>
+<table class="center">
 
 <caption>Table 2.  Homogeneity results for clustering fused features from BERT and ResNet50.</caption>
 
@@ -127,7 +127,7 @@ Next, we fuse features from various layers. The fusion techniques employed also 
 
 Further, we try various fusion techniques as described in the section above. As expected, concatenating results from the FC layer of ResNET and the 11th layer of BERT gives the best results. Late-Late fusion technique gives the best results because of the fact that later stage features are much more abstract. Conventional algorithms like GMM tend to perform poorly on complex and less abstract features. Using neural networks for Early stage fusion techniques will be part of future work. The results are compiled in Table 3.
 
-<table>
+<table class="center">
 
 <caption>Table 3.  Homogeneity results for clustering early and late stage features from fused feature layers.</caption>
 
@@ -161,7 +161,7 @@ For visualization, we tried different covariance types in the GMM algorithm. We 
 Finally, we tried concatenating features obtained from various layers of BERT. For example, we concatenated features obtained from layer 11,12,13 from BERT. However, we report a decrease in the homogeneity score, as shown in Table 4. Exploring concatenation from various layers of the network will be part of future work.
 
 
-<table>
+<table class="center">
 
 <caption>Table 4.  Homogeneity results for clustering concatenated features from BERT layers applied to captions.</caption>
 
