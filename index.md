@@ -4,12 +4,12 @@ You can use the [editor on GitHub](https://github.com/NesaraBE/NesaraBE.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In recent years, memes have grown into one of the most widespread forms of content on social media. While generally intended for humor, hateful and misleading content has been on the rise (Fig. 1).  Hence, an effective method of classifying memes into toxic or non-toxic is a major issue to be tackled to ensure a healthy atmosphere online. 
 
-```markdown
-Syntax highlighted code block
+We intend to build a meme classifier that can augment the human moderators in filtering out the toxic ones. The dataset used for the project would include the data from Meta’s Hateful Memes Challenge [3].
+
 
 # Header 1
 ## Header 2
