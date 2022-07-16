@@ -1,4 +1,4 @@
-### Classifying Toxic Memes with Artificial Intelligence
+## Classifying Toxic Memes with Artificial Intelligence
 
 
 ## Introduction
