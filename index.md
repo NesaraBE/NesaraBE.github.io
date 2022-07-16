@@ -185,7 +185,7 @@ Finally, we tried concatenating features obtained from various layers of BERT. F
 
 <td> 11, 12, 13 </td>
 
-<td>0.0157</td>
+<td> 0.0157 </td>
 
 </tr>
  
