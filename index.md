@@ -53,7 +53,7 @@ We take features obtained from early and later stage layers from ResNET-50 and e
 <center>
 <table class="center">
 
-<caption>Table 1: Homogeneity results for clustering early and late stage features from BERT applied to captions. </caption>
+    <caption><b>Table 1:</b> Homogeneity results for clustering early and late stage features from BERT applied to captions. </caption>
 
 <tr>
 
@@ -106,7 +106,7 @@ Next, we fuse features from various layers. The fusion techniques employed also 
 
 <table class="center">
 
-<caption>Table 2.  Homogeneity results for clustering fused features from BERT and ResNet50.</caption>
+    <caption><b>Table 2.</b>  Homogeneity results for clustering fused features from BERT and ResNet50.</caption>
 
 <tr>
 
@@ -132,7 +132,7 @@ Further, we try various fusion techniques as described in the section above. As 
 <center>
 <table class="center">
 
-<caption>Table 3.  Homogeneity results for clustering early and late stage features from fused feature layers.</caption>
+<caption><b>Table 3.</b>  Homogeneity results for clustering early and late stage features from fused feature layers.</caption>
 
 <tr>
 
@@ -168,7 +168,7 @@ Finally, we tried concatenating features obtained from various layers of BERT. F
 <center>
 <table class="center">
 
-<caption>Table 4.  Homogeneity results for clustering concatenated features from BERT layers applied to captions.</caption>
+<caption><b>Table 4.</b>  Homogeneity results for clustering concatenated features from BERT layers applied to captions.</caption>
 
 <tr>
 
