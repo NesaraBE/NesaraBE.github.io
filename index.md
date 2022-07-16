@@ -51,7 +51,7 @@ We take features obtained from early and later stage layers from ResNET-50 and e
 
 
 
-
+<center>
 <table class="center">
 
 <caption>Table 1: Homogeneity results for clustering early and late stage features from BERT applied to captions. </caption>
@@ -98,7 +98,7 @@ We take features obtained from early and later stage layers from ResNET-50 and e
 </tr>
 
 </table>
-
+</center>
 
 
 Next, we fuse features from various layers. The fusion techniques employed also improve the results obtained individually just from image or text data. We report homogeneity scores for each of the cases.  The results can be seen in Table 2.
