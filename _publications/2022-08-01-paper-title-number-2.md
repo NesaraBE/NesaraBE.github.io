@@ -3,8 +3,8 @@ title: "3D IC Tier Partitioning of Memory Macros: PPA vs. Thermal Tradeoffs"
 collection: publications
 permalink: /publication/2022-08-01-ISLPED
 excerpt: 'In this paper, we evaluate and quantify the impacts of various macro partitioning on the performance and temperature in commercial-grade 3D ICs. In addition, we propose a set of partitioning guidelines and a quick constraint-graph-based approach to create floorplans for logic-on-memory 3D ICs.'
-date: 2020-01-01
-venue: 'International Journal of Multimedia Data Engineering and Management (IJMDEM)'
+date: 2022-08-01
+venue: 'ISLPED'
 paperurl: <!-- '[http://academicpages.github.io/files/paper1.pdf](https://dl.acm.org/doi/10.1145/3465336.3475098)' -->
 citation: 'Badal Soni, Angana Borah, Pidugu Naga Lakshmi Sowgandhi, Pramod Sarma and Ermyas Fekadu Shiferaw. (2020). &quot;Are Word Embedding Methods Stable and Should We Care About It?&quot; <i>International Journal of Multimedia Data Engineering and Management (IJMDEM) </i>. 11(2).'
 ---
