@@ -9,11 +9,11 @@ main:
   - title: "Projects"
     url: /projects/
     
-  - title: "Misc"
-    url: /misc/
+ #  - title: "Misc"
+ #    url: /misc/
     
-  - title: "Resume"
-    url: /resume/
+ #  - title: "Resume"
+ #    url: /resume/
     
  # - title: "Talks"
  #   url: /talks/    
