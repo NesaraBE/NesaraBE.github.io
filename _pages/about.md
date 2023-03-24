@@ -9,10 +9,16 @@ redirect_from:
 ---
 
 Hello! 
+
+
 I am Nesara, a second year master's student in Electrical and Computer Engineering at [Georgia Tech](https://www.ece.gatech.edu/). My research interests are broadly in physical design methodologies for 2D and 3D ICs. 
+
+
 I am currently working as a research assistant at the [GTCAD lab](https://gtcad.gatech.edu/) under [Dr. Sung-Kyu Lim](https://limsk.ece.gatech.edu/). Here, I work on enabling novel physical design methodologies in 2D and 3D IC space. 
 
+
 Prior to my master's, I worked at Cadence Design Systems for 2 years after completing my Bachelors in Electrical Engineering at BMS College of Engineering, Bangalore. 
+
 
 Please find my resume from this [link](https://drive.google.com/file/d/16vSIFF2cVtGmoRfLq-6zqL6V-okeFHo4/view?usp=sharing). 
 
