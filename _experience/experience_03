@@ -13,19 +13,19 @@ location: "Atlanta, USA"
 
 Under supervision of Prof. Sung-Kyu Lim, I worked on the following projects,
 
-1) Back-side Clock Delivery Network Physical Design methodology:
+1 Back-side Clock Delivery Network Physical Design methodology:
 a. First-ever EDA methodology that utilizes the back-side metals for clock routing.
 b. Intelligently partitioned a given clock tree to utilize the back vs. front-side to improve clock and full-chip metrics while minimizing through-silicon-via usage.
 c. Results on commercial core processors show that Back-side Clock Delivery Network methodology leads to 14% performance, 5% power, and 70% signal integrity improvements. 
 d. Work was done in collaboration with IMEC.
 
-2) Hierarchical 3D designs & Automatic Floorplan generation and validation:
+2 Hierarchical 3D designs & Automatic Floorplan generation and validation:
 a. Validated automatic floorplan and area-recovery capabilities in journal extension of Agnesina A., et. al., "Hier-3D: A Hierarchical Physical Design Methodology for Face-to-Face Bonded 3D ICs", ACM/IEEE ISLPED, 2022.
 b. Worked on physical implementation methodologies of 3D (Memory-on-Logic) & (Logic-on-Logic) Stacking Architectures.
 c. Successfully implemented designs with instance counts up to 9M, using commercial 2D and in-house 3D Place and Route tools at advanced technology nodes.
 d. Evaluated 3D Automatic Floorplanning solutions with respect to the existing 3D Manual Floorplanning solutions.
 
-3) Macro partitioning & Thermal modeling:
+3 Macro partitioning & Thermal modeling:
 a. Lingjun Zhu, Nesara Bethur, et. al., "3D IC Tier Partitioning of Memory Macros: PPA vs. Thermal Tradeoffs", ACM/IEEE ISLPED, 2022.
 b. Contributed to developing a thermal analysis flow for 2D and 3D Designs including an ARM core.
 c. Generated Chip Thermal Models (CTM) using Ansys Redhawk and analyzed thermal resistances (Rja, Rjb and Rjc), temperature trends and heat flow changes by varying interconnect density, cooling solution, bonding material, heatsink and board size using Ansys CPS.
