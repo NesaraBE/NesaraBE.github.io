@@ -12,6 +12,7 @@ location: "Bangalore, India"
 ---
 
 Under supervision of Vikas Jayathilakan,
+
 a. Implemented PCIe Gen 3, 4 - SerDes and D-PHY IP designs in 5, 7 and 16 nm technology nodes.   
 b. Was responsible for the complete back-end digital design flow – netlist to GDSII.  
 c. Took ownership of design blocks with power-domains, wherein major work involved clock skew analysis, in-rush analysis, timing analysis (up to 2.5GHz clock frequencies) and physical verification. 
