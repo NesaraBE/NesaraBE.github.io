@@ -1,0 +1,24 @@
+---
+title: "Technical Intern"
+collection: experience
+type: "FPGA prototyping"
+permalink: /experience/experience-summer-ms
+venue: "Synopsys"
+date1: 6 Jan 2019
+date2: 15 June 2019
+excerpt: 'Ethernet IP validation using FPGAs.'
+location: "Bangalore, India"
+---
+-	Worked on FPGA prototyping using HAPS (High-performance ASIC Prototyping Systems). 
+-	Was responsible for XLGMAC Ethernet inter-op generation and validation for 25GHz PHY. 
+-	Ramped up on the Ethernet protocol, Ethernet MAC, and PCS controllers. 
+-	Demonstrated PRBS (Pseudo-Random Binary Sequence) generation, reception for interconnect validation.
+<!-- 
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+====== -->
