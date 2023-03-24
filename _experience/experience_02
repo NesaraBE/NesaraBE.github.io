@@ -10,7 +10,7 @@ excerpt: 'Netlist-GDSII physical design of SerDes IPs in cutting edge technology
 location: "Bangalore, India"
 ---
 
-Under supervision of Vikas Jayathilakan:
+Under supervision of Vikas Jayathilakan,
 
 a. Implemented PCIe Gen 3, 4 - SerDes and D-PHY IP designs in 5, 7 and 16 nm technology nodes.   
 b. Was responsible for the complete back-end digital design flow – netlist to GDSII.  
