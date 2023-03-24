@@ -6,7 +6,7 @@ excerpt: 'In this paper, we evaluate and quantify the impacts of various macro p
 date: 2022-08-01
 venue: 'ISLPED'
 paperurl: <!-- '[PDF](https://dl.acm.org/doi/abs/10.1145/3531437.3539724)' -->
-citation: 'Badal Soni, Angana Borah, Pidugu Naga Lakshmi Sowgandhi, Pramod Sarma and Ermyas Fekadu Shiferaw. (2020). &quot;Are Word Embedding Methods Stable and Should We Care About It?&quot; <i>International Journal of Multimedia Data Engineering and Management (IJMDEM) </i>. 11(2).'
+citation: 'Lingjun Zhu, Nesara Eranna Bethur, Yi-Chen Lu, Youngsang Cho, Yunhyeok Im, and Sung Kyu Lim. 2022. 3D IC Tier Partitioning of Memory Macros: PPA vs. Thermal Tradeoffs. In Proceedings of the ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED '22). Association for Computing Machinery, New York, NY, USA, Article 19, 1–6.'
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
 
