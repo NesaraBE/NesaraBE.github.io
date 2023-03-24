@@ -1,6 +1,0 @@
----
-title: "Self-tuning DVS processor implementation"
-excerpt: "Implemented [A self-tuning DVS processor using delay-error detection and correction](https://ieeexplore.ieee.org/document/1610623) in Cadence Virtuoso."
-collection: projects
----
-
