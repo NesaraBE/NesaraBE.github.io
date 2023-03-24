@@ -1,5 +1,5 @@
 ---
-title: "3D IC Tier Partitioning of Memory Macros: PPA vs. Thermal Tradeoffs"
+title: "a 3D IC Tier Partitioning of Memory Macros: PPA vs. Thermal Tradeoffs"
 authors: "Lingjun Zhu, Nesara Eranna Bethur, Yi-Chen Lu, Youngsang Cho, Yunhyeok Im, Sung Kyu Lim"
 collection: publications
 permalink: /publication/2022-08-01-ISLPED22
