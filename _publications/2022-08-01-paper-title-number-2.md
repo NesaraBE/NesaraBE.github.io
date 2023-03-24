@@ -1,7 +1,7 @@
 ---
 title: "3D IC Tier Partitioning of Memory Macros: PPA vs. Thermal Tradeoffs"
 collection: publications
-permalink: /publication/2020-01-01-IJMDEM
+permalink: /publication/2022-08-01-ISLPED
 excerpt: 'We introduce a technique called KTRICT, which uses random projection based indexing and improves the performance of the CBIR system by significantly reducing the overall retrieval time.'
 date: 2020-01-01
 venue: 'International Journal of Multimedia Data Engineering and Management (IJMDEM)'
