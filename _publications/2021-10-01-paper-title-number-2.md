@@ -1,10 +1,10 @@
 ---
-title: "Are Word Embedding Methods Stable and Should We Care About It?"
-authors: "Angana Borah, Manash Pratim Barman, Amit C Awekar"
+title: "3D IC Tier Partitioning of Memory Macros: PPA vs. Thermal Tradeoffs"
+authors: "Lingjun Zhu, Nesara Eranna Bethur, Yi-Chen Lu, Youngsang Cho, Yunhyeok Im, Sung Kyu Lim"
 collection: publications
-permalink: /publication/2021-08-29-HT21
-excerpt: 'The central idea of this paper is to explore the stability measurement of WEMs using intrinsic evaluation based on word similarity and observe the effect of stability on two downstream tasks like Clustering and Fairness evaluation.'
-date: 2021-08-29
+permalink: /publication/2022-08-01-ISLPED22
+excerpt: 'In this paper, we evaluate and quantify the impacts of various macro partitioning on the performance and temperature in commercial-grade 3D ICs. In addition, we propose a set of partitioning guidelines and a quick constraint-graph-based approach to create floorplans for logic-on-memory 3D ICs.''
+date: 2022-08-01
 venue: 'ACM HyperText'
 paperurl: <!-- '[http://academicpages.github.io/files/paper1.pdf](https://dl.acm.org/doi/10.1145/3465336.3475098)' -->
 citation: 'Angana Borah, Manash Pratim Barman, Amit C Awekar. (2021). &quot;Are Word Embedding Methods Stable and Should We Care About It?&quot; <i>In Proceedings of the 32nd ACM Conference on Hypertext and Social Media </i>. (pp. 45-55).'
