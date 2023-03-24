@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello! 
+I am Nesara, a second year master's student in Electrical and Computer Engineering at [Georgia Tech](https://www.ece.gatech.edu/). My research interests are broadly in physical design methodologies for 2D and 3D ICs. 
+I am currently working as a research assistant at the [GTCAD lab](https://gtcad.gatech.edu/) under [Dr. Sung-Kyu Lim](https://limsk.ece.gatech.edu/). Here, I work on enabling novel physical design methodologies in 2D and 3D IC space. 
+
+Prior to my master's, I worked at Cadence Design Systems for 2 years after completing my Bachelors in Electrical Engineering at BMS College of Engineering, Bangalore. 
+
+Please find my resume from this [link](https://drive.google.com/file/d/16vSIFF2cVtGmoRfLq-6zqL6V-okeFHo4/view?usp=sharing). 
+
+<!-- 
 
 A data-driven personal website
 ======
@@ -48,3 +56,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
