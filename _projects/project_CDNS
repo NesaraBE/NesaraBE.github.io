@@ -1,0 +1,6 @@
+---
+title: "Leakage and Setup Optimization Flow"
+excerpt: "Developed a flow that involved path-based VT-swapping, which was used across different projects that effectively recovered around 15% of leakage power and 60% of TNS (Total Negative Slack) of setup and hold."
+collection: projects
+---
+
