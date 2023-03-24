@@ -1,0 +1,5 @@
+---
+title: "Out-of-Order Pipeline with In-order Commit"
+excerpt: "Implemented a timing simulation of Out-of-Order Pipeline with in-order commit using Reorder Buffer and Register Alias Table in C++."
+collection: projects
+---
