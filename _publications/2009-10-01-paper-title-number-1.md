@@ -6,7 +6,7 @@ permalink: /publication/2022-01-08-HT22
 excerpt: 'In this paper, we evaluate and quantify the impacts of various macro partitioning on the performance and temperature in commercial-grade 3D ICs. In addition, we propose a set of partitioning guidelines and a quick constraint-graph-based approach to create floorplans for logic-on-memory 3D ICs.'
 date: 2022-01-08
 venue: 'ISLPED'
-paperurl: 'https://dl.acm.org/doi/abs/10.1145/3531437.3539724'
+paperurl: <!-- '(https://dl.acm.org/doi/abs/10.1145/3531437.3539724)' -->
 citation: 'Lingjun Zhu, Nesara Eranna Bethur, Yi-Chen Lu, Youngsang Cho, Yunhyeok Im, and Sung Kyu Lim. 2022. 3D IC Tier Partitioning of Memory Macros: PPA vs. Thermal Tradeoffs. In Proceedings of the ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED '22). Association for Computing Machinery, New York, NY, USA, Article 19, 1–6. https://doi.org/10.1145/3531437.3539724'
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
