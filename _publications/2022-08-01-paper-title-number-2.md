@@ -6,7 +6,8 @@ excerpt: 'In this paper, we evaluate and quantify the impacts of various macro p
 date: 2022-08-01
 venue: 'ISLPED'
 paperurl: <!-- '[PDF](https://dl.acm.org/doi/abs/10.1145/3531437.3539724)' -->
-citation: 'Lingjun Zhu, Nesara Eranna Bethur, Yi-Chen Lu, Youngsang Cho, Yunhyeok Im, and Sung Kyu Lim. 2022. 3D IC Tier Partitioning of Memory Macros: PPA vs. Thermal Tradeoffs. In Proceedings of the ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED '22). Association for Computing Machinery, New York, NY, USA, Article 19, 1–6.'
+citation: 'Lingjun Zhu, Nesara Bethur, et. al., "3D IC Tier Partitioning of Memory Macros: PPA vs. Thermal Tradeoffs", ACM/IEEE ISLPED, 2022.'
+
 ---
 <!-- This paper is about the number 2. The number 3 is left for future work. -->
 
