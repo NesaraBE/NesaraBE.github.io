@@ -1,0 +1,6 @@
+---
+title: "Classifying toxic memes with AI"
+excerpt: "Built a DNN for the multi-modal classification of toxic memes and explored early and late fusion techniques. [(Link to project site)](https://nesarabe.github.io/Classifying-Toxic-Memes/)"
+collection: projects
+---
+Using the [Hateful memes dataset from Meta](https://ai.facebook.com/tools/hatefulmemes/), we use an ensemble of NNs to solve the multi-modal classification problem. The classifier was in the top 17 in the hateful memes’ classifier challenge by Meta. We also conduct several experiments on different fusion techniques and conclude that late-late fusion for both images and text work the best. 
