@@ -1,0 +1,9 @@
+---
+title: "ISWAP - Interposer SWAP"
+excerpt: "A deadlock removal scheme adaptable to heterogenous 2.5D interconnect networks which was implemented in gem5 garnet simulator."
+collection: projects
+---
+
+To solve the problem of deadlocks in a chiplet based system, we take a modular approach where-in the NoC microarchitecture of only the interposer is needed to change upon chiplets integration. According to our literature survey, this is the first approach which achieves this level of modularity with limited microarchitecture changes. This work is inspired by [SWAP](https://dl.acm.org/doi/abs/10.1145/3352460.3358255). We observe an increase of 5% in the performance when compared to the SoTA interposer deadlock avoidance flows.
+
+
