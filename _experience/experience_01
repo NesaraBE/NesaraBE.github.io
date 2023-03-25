@@ -7,7 +7,7 @@ venue: "Synopsys"
 date1: 6 Jan 2019
 date2: 5 June 2019
 excerpt: 'Ethernet IP validation using FPGAs.'
-location: "Saarbrücken, Germany"
+location: "Bangalore, India"
 ---
 
 Under supervision of Manjunath M B,
@@ -17,13 +17,3 @@ b. Was responsible for XLGMAC Ethernet inter-op generation and validation for 25
 c. Ramped up on the Ethernet protocol, Ethernet MAC, and PCS controllers. 
 d. Demonstrated PRBS (Pseudo-Random Binary Sequence) generation, reception for interconnect validation.
 
-
-<!-- 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-====== -->
