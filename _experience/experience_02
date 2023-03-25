@@ -9,13 +9,27 @@ date2: 30 July 2019
 excerpt: 'Netlist-GDSII physical design of SerDes IPs in cutting edge technology nodes like 5, 7 & 16 nm.
 
 
+
+
 Under supervision of Vikas Jayathilakan,
 
+
+
 a. Implemented PCIe Gen 3, 4 - SerDes and D-PHY IP designs in 5, 7 and 16 nm technology nodes.   
+
+
 b. Was responsible for the complete back-end digital design flow – netlist to GDSII.  
+
+
 c. Took ownership of design blocks with power-domains, wherein major work involved clock skew analysis, in-rush analysis, timing analysis (up to 2.5GHz clock frequencies) and physical verification. 
+
+
 d. Underwent training on Test Chip implementation – from Bump Floor-planning to RDL routing. 
+
+
 e. Demonstrated proficiency in automation and text-parsing. 
+
+
 f. Apart from projects, took initiative and developed a generic leakage and setup optimization flow.
 
 '
