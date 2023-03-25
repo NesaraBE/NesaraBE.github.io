@@ -6,9 +6,8 @@ permalink: /experience/experience_02
 venue: "Cadence Design Systems"
 date1: 7 June 2019
 date2: 30 July 2019
-excerpt: 'Netlist-GDSII physical design of SerDes IPs in cutting edge technology nodes like 5, 7 & 16 nm.'
-location: "Bangalore, India"
----
+excerpt: 'Netlist-GDSII physical design of SerDes IPs in cutting edge technology nodes like 5, 7 & 16 nm.
+
 
 Under supervision of Vikas Jayathilakan,
 
@@ -18,6 +17,10 @@ c. Took ownership of design blocks with power-domains, wherein major work involv
 d. Underwent training on Test Chip implementation – from Bump Floor-planning to RDL routing. 
 e. Demonstrated proficiency in automation and text-parsing. 
 f. Apart from projects, took initiative and developed a generic leakage and setup optimization flow.
+
+'
+location: "Bangalore, India"
+---
 
 
 <!-- 
