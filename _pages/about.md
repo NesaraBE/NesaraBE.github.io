@@ -9,7 +9,10 @@ redirect_from:
 ---
 
 Hello all,
+
+
 I am Nesara. I love solving important problems.
+
 
 My interests include VLSI design methodologies for 3DIC and the application of machine learning and algorithms in CAD/EDA. Currently, I am exploring my interests at AMD, Austin.
 
@@ -21,6 +24,7 @@ Prior to my master's, I worked at Cadence Design Systems for 2 years after compl
 
 
 Please find my resume from this [link](https://drive.google.com/file/d/1FHEv8P9csIbRy1B4ydctO-DnuGw5ijKY/view?usp=sharing). 
+
 
 If you are working on exciting problems, I am open to collaborating.
 
