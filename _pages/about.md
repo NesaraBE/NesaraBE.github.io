@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hello! 
+Hello all,
+I am Nesara. I love solving important problems.
+
+My interests include VLSI design methodologies for 3DIC and the application of machine learning and algorithms in CAD/EDA. Currently, I am exploring my interests at AMD, Austin.
 
 
-I am Nesara, a second year master's student in Electrical and Computer Engineering at [Georgia Tech](https://www.ece.gatech.edu/). My research interests are broadly in physical design methodologies for 2D and 3D ICs. 
+I completed my Master's in Electrical and Computer Engineering at [Georgia Tech](https://www.ece.gatech.edu/) where I worked as a research assistant at the [GTCAD lab](https://gtcad.gatech.edu/) under [Dr. Sung-Kyu Lim](https://limsk.ece.gatech.edu/). Here, I worked on enabling novel physical design methodologies in 2D and 3D IC space. 
 
 
-I am currently working as a research assistant at the [GTCAD lab](https://gtcad.gatech.edu/) under [Dr. Sung-Kyu Lim](https://limsk.ece.gatech.edu/). Here, I work on enabling novel physical design methodologies in 2D and 3D IC space. 
+Prior to my master's, I worked at Cadence Design Systems for 2 years after completing my Bachelor's in Electrical Engineering at BMS College of Engineering, Bangalore. 
 
 
-Prior to my master's, I worked at Cadence Design Systems for 2 years after completing my Bachelors in Electrical Engineering at BMS College of Engineering, Bangalore. 
+Please find my resume from this [link](https://drive.google.com/file/d/1FHEv8P9csIbRy1B4ydctO-DnuGw5ijKY/view?usp=sharing). 
 
-
-Please find my resume from this [link](https://drive.google.com/file/d/16vSIFF2cVtGmoRfLq-6zqL6V-okeFHo4/view?usp=sharing). 
+If you are working on exciting problems, I am open to collaborating.
 
 <!-- 
 
